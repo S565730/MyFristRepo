@@ -2,5 +2,6 @@ M Mole
 N Newt
 O Owl
 P Panda
-T Tapir
-k kite
+T Tiger
+j jut
+
